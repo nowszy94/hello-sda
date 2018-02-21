@@ -1,2 +1,2 @@
 "# hello-sda" 
-Jakas zmiana
+Jakas
